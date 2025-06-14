@@ -2344,4 +2344,3 @@ function App() {
 }
 
 export default App;
-cambios generados
